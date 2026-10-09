@@ -2,3 +2,5 @@
 
 Nombre: José Sánchez
 Módulo: Lenguajes de Marcas y Sistemas de Gestión de Información
+
+Git y GitHub Configurados correctamente. 
