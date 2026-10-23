@@ -3,4 +3,4 @@
 Nombre: José Sánchez
 Módulo: Lenguajes de Marcas y Sistemas de Gestión de Información
 
-Git y GitHub Configurados correctamente. 
+La temática de la web será un café
